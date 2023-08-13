@@ -1,5 +1,5 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Muhammad Alpim Alfa Rolis**.\
+Perkenalkan nama saya **Muhammad Alpim Alfa Rolis**.
 
-Saya seorang **Mahasiswa** di [Universitas Sriwijaya](https://unsri.ac.id/).\
+Saya seorang **Mahasiswa** di [Universitas Sriwijaya](https://unsri.ac.id/).
